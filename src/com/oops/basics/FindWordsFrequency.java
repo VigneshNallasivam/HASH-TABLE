@@ -1,8 +1,6 @@
 package com.oops.basics;
-
 import java.util.HashMap;
 import java.util.Set;
-
 public class FindWordsFrequency
 {
 	static void userInputSentence(String userString) 
